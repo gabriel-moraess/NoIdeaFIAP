@@ -2,7 +2,7 @@
 Este repositório contém a análise exploratória de dados (EDA) desenvolvida para avaliar o desempenho operacional, logístico e a satisfação dos clientes no e-commerce brasileiro.
 
 🔗 Dataset Utilizado
-Dataset: Brazilian E-Commerce Public Dataset by Olist
+Dataset: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 📌 Resumo do que foi desenvolvido nos Notebooks
 
